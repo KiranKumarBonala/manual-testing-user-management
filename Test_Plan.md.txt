@@ -1,0 +1,39 @@
+# Test Plan – User Management Web Application
+
+## Objective
+To verify the functionality and usability of the User Management Web Application UI.
+
+## Application Under Test
+A locally hosted web application that allows users to add and view user details.
+
+## Scope
+- Add user functionality
+- Display user list
+- Input validation
+- UI behavior
+
+## Testing Type
+- Manual Testing
+- Functional Testing
+- Smoke Testing
+- Usability Testing
+
+## Test Environment
+- OS: Windows
+- Browser: Google Chrome
+- URL: http://127.0.0.1:5000/
+
+## Entry Criteria
+- Application is running
+- UI is accessible
+
+## Exit Criteria
+- All test cases executed
+- Defects logged
+
+## Deliverables
+- Test Plan
+- Test Scenarios
+- Test Cases
+- Bug Report
+- Test Summary Report

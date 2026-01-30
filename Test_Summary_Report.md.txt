@@ -1,0 +1,16 @@
+# Test Summary Report
+
+## Total Test Cases
+6
+
+## Passed
+3
+
+## Failed
+3
+
+## Defects Found
+3 (1 High, 2 Medium)
+
+## Conclusion
+The application UI works but lacks proper input validation. Improvements recommended.

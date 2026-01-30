@@ -1,0 +1,8 @@
+# Test Scenarios
+
+1. Verify user can be added using valid input
+2. Verify user list displays after adding user
+3. Verify behavior when input fields are empty
+4. Verify behavior for invalid email format
+5. Verify behavior for negative age input
+6. Verify UI loads successfully
